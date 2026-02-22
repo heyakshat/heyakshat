@@ -1,13 +1,5 @@
 # Hi, I'm Akshat Sharma! 👋 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A1E0&width=435&lines=Salesforce+Developer;LWC+Specialist;TCS+Last+Mile+Phase+2;Gyan+Ganga+Student)
-
----
-
-### 🏆 Professional Milestones & Selection
-- **🎓 Education:** B.Tech at **Gyan Ganga College of Technology**
-- **🚀 Selection:** **TCS Last Mile Program (Phase 2)** Participant
-- **🏅 Hackathon:** **SIH 2025 Internal Round Qualifier** with **Team Infinity**
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A1E0&width=435&lines=Salesforce+Developer;LWC+Specialist;Aspring+SalesForce+Developer)
 ---
 
 ### ☁️ Salesforce Trailblazer Intelligence
