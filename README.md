@@ -2,12 +2,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00A1E0&width=435&lines=Salesforce+Developer;LWC+Specialist)
 
 ---
----
-
 ### ☁️ Salesforce Trailblazer
 <div align="center">
   <a href="https://www.salesforce.com/trailblazer/g1dpku602n45dfh5dl">
     <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/expeditioner.png" alt="Trailhead Rank" />
+    <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-a564a869686f7b888fabd8c82dafaf25928fa006be2388ab57e6f232876c2bf0.png" alt="AgentBlazer Champion Rank" />
   </a>
 </div>
 
