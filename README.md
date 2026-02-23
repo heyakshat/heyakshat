@@ -7,7 +7,7 @@
 ### ☁️ Salesforce Trailblazer
 <div align="center">
   <a href="https://www.salesforce.com/trailblazer/g1dpku602n45dfh5dl">
-    <img src="https://trailhead-badge-service.vercel.app/api?username=g1dpku602n45dfh5dl&theme=dark" alt="Trailhead Rank" />
+    <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/expeditioner.png" alt="Trailhead Rank" />
   </a>
 </div>
 
