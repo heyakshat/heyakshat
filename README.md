@@ -6,8 +6,8 @@
 
 ### ☁️ Salesforce Trailblazer
 <div align="center">
-  <a href="https://www.salesforce.com/trailblazer/heyakshat">
-    <img src="https://trailhead-badge-service.vercel.app/api?username=heyakshat&theme=dark" alt="Trailhead Rank" />
+  <a href="https://www.salesforce.com/trailblazer/g1dpku602n45dfh5dl">
+    <img src="https://trailhead-badge-service.vercel.app/api?username=g1dpku602n45dfh5dl&theme=dark" alt="Trailhead Rank" />
   </a>
 </div>
 
