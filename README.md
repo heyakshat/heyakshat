@@ -1,34 +1,16 @@
-# Hi, I'm Akshat Sharma! 👋 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00A1E0&width=435&lines=Salesforce+Developer;LWC+Specialist)
+# 💫 About Me:
+🚀 I’m currently working on StockFlow, a Salesforce-based inventory management system. I am building custom Visualforce portals and Apex controllers to manage warehouses and real-time stock levels.<br><br>👯 I’m looking to collaborate on Open-source Salesforce DX projects, AppExchange app ideas, or any initiatives involving React.js and Salesforce integration.<br><br>🤝 I’m looking for help with Mastering LWC (Lightning Web Components) advanced patterns and improving my knowledge of Asynchronous Apex (Batch and Queueable).<br><br>🌱 I’m currently learning Advanced Salesforce Development, SOQL optimization, and preparing for my Salesforce Certified Platform Developer I journey.<br><br>💬 Ask me about Apex Triggers, Visualforce Page architecture, Object-Oriented Programming (OOP), and my experience in the TCS Last Mile Program (Phase 2).<br><br>⚡ Fun fact - I once configured a fully functional Guest User portal while my Salesforce Org's file storage was at 185%—proving that "Platform Limits" are just another challenge to solve!
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ieakshat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ieakshat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatleader4@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=heyakshat&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=heyakshat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heyakshat&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-### ☁️ Salesforce Trailblazer
-<div align="center">
-  <a href="https://www.salesforce.com/trailblazer/g1dpku602n45dfh5dl">
-    <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/expeditioner.png" alt="Trailhead Rank" />
-  </a>
-</div>
-
----
-
-### 📂 Featured Engineering
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[StockFlow](https://github.com/heyakshat/StockFlow)** | AI-Enhanced Inventory Management System | LWC, Apex, SOQL |
-| **[Subscripify](https://github.com/heyakshat/Subscription-Box-Service-Management-System)** | Subscription Management System | Apex, Salesforce Flow |
-
----
-
-### 📊 Developer Analytics
-![Akshat's Stats](https://github-readme-stats.vercel.app/api?username=heyakshat&show_icons=true&theme=tokyonight&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyakshat&layout=compact&theme=tokyonight&hide=html,css)
-
----
-
-### 🐍 Contribution Activity
-![Snake Animation](https://github-user-contents.vercel.app/api/snake?username=heyakshat&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1ff%2C%234b91ff%2C%233d7eff&color_snake=%2300A1E0&target=github)
-
----
-
-### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-sharma-285a92327/)
+[![](https://visitcount.itsvg.in/api?id=heyakshat&icon=3&color=0)](https://visitcount.itsvg.in)
